@@ -23,15 +23,7 @@ The Company is exploring alternate methods to approach their visitors, instead o
 In order to build potential customer’s (visitor) confidence in real estate prices
 we propose to use a data-driven approach. We plan to build an interactive dashboard that can be used by customers during their visits to explore data according to their requirement and generate insights and analysis.
 
-The dashboard is expected to classify the real estate properties in Mumbai
-based on the location (geo-spatial representation), filter the available
-properties as per requirement (size, #bedrooms, furnishing), type of the
-property (apartment, villa, individual), flooring type, parking space, water
-supply and other amenities.
-***
-<p align="center"><b>SOLUTION </b> </p>
-
-***
+### SOLUTION
 
 <p align="center">Homepage </p>
 
